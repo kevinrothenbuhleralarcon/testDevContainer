@@ -1,0 +1,13 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/java:21",
+    // "remoteEnv": {
+    //     "HTTP_PROXY": "http://webproxy.vd.ch",
+    //     "HTTPS_PROXY": "http://webproxy.vd.ch",
+    //     "NO_PROXY": "localhost;127.0.0.*;10.*;192.168.*;*.etat-de-vaud.ch;*.vd.ch"
+    // },
+    // "containerEnv": {
+    //     "HTTP_PROXY": "http://webproxy.vd.ch",
+    //     "HTTPS_PROXY": "http://webproxy.vd.ch",
+    //     "NO_PROXY": "localhost;127.0.0.*;10.*;192.168.*;*.etat-de-vaud.ch;*.vd.ch"
+    // }
+}
